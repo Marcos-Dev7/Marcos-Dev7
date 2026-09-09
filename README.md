@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=260&section=header&text=SYSTEM.MARCOS_PAULO&fontSize=45&fontColor=00F5FF&fontAlignY=35&animation=fadeIn&desc=BACKEND%20DEVELOPER%20//%20JAVA%20%2B%20SPRING%20BOOT&descAlignY=55&descSize=18&descColor=8A2BE2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=260&section=header&text=SISTEMA.MARCOS_PAULO&fontSize=45&fontColor=00F5FF&fontAlignY=35&animation=fadeIn&desc=DESENVOLVEDOR%20BACKEND%20//%20JAVA%20%2B%20SPRING%20BOOT&descAlignY=55&descSize=18&descColor=8A2BE2" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=%3E+INITIALIZING+SYSTEM...+%5BOK%5D;%3E+LOADING+CORE+MODULE%3A+JAVA...+%5BOK%5D;%3E+MOUNTING+SPRING_BOOT_FRAMEWORK...+%5BOK%5D;%3E+WELCOME%2C+DEVELOPER.+ACCESS+GRANTED." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=%3E+INICIALIZANDO+SISTEMA...+%5BOK%5D;%3E+CARREGANDO+M%C3%93DULO+PRINCIPAL%3A+JAVA...+%5BOK%5D;%3E+MONTANDO+FRAMEWORK+SPRING_BOOT...+%5BOK%5D;%3E+BEM-VINDO%2C+DESENVOLVEDOR.+ACESSO+CONCEDIDO." alt="Typing SVG" />
 
 <br/>
 
 <img src="https://img.shields.io/badge/STATUS-ONLINE-00F5FF?style=for-the-badge&labelColor=0D0221&logo=statuspage&logoColor=00F5FF" />
-<img src="https://img.shields.io/badge/ROLE-BACKEND_DEVELOPER-8A2BE2?style=for-the-badge&labelColor=0D0221&logo=java&logoColor=8A2BE2" />
-<img src="https://img.shields.io/badge/LOCATION-CONTAGEM_MG_BR-FF00FF?style=for-the-badge&labelColor=0D0221&logo=googlemaps&logoColor=FF00FF" />
+<img src="https://img.shields.io/badge/FUN%C3%87%C3%83O-DESENVOLVEDOR_BACKEND-8A2BE2?style=for-the-badge&labelColor=0D0221&logo=java&logoColor=8A2BE2" />
+<img src="https://img.shields.io/badge/LOCALIZA%C3%87%C3%83O-CONTAGEM_MG_BR-FF00FF?style=for-the-badge&labelColor=0D0221&logo=googlemaps&logoColor=FF00FF" />
 
 </div>
 
@@ -26,7 +26,7 @@
 sistema:
   nome: "Marcos Paulo"
   identificador: "Marcos-Dev7"
-  funcao: "Backend Developer"
+  funcao: "Desenvolvedor Backend"
   stack_principal: "Java + Spring Boot"
   banco_de_dados: "PostgreSQL"
   containerizacao: "Docker"
@@ -41,7 +41,7 @@ sobre:
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px">
 
-## `<` TECH_STACK `/>`
+## `<` STACK_TECNOLOGICA `/>`
 
 <div align="center">
 
@@ -59,7 +59,7 @@ sobre:
 | 🌱 **Framework** | ![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=00F5FF&labelColor=0D0221) |
 | 🗄️ **Banco de Dados** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=00F5FF&labelColor=0D0221) |
 | 🐳 **Infraestrutura** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=00F5FF&labelColor=0D0221) |
-| 🔧 **Build Tool** | ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=00F5FF&labelColor=0D0221) |
+| 🔧 **Ferramenta de Build** | ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=00F5FF&labelColor=0D0221) |
 | 🔀 **Versionamento** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=00F5FF&labelColor=0D0221) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=00F5FF&labelColor=0D0221) |
 
 </div>
@@ -97,7 +97,7 @@ API REST para controle financeiro familiar: gestão de despesas, múltiplas font
 
 `Java 25` `Spring Boot 4` `PostgreSQL` `Flyway` `JPA/Hibernate`
 
-[![Repo](https://img.shields.io/badge/ACCESS_REPO-00F5FF?style=for-the-badge&logo=github&logoColor=0D0221)](https://github.com/Marcos-Dev7/financas-investimentos)
+[![Repo](https://img.shields.io/badge/ACESSAR_REPO-00F5FF?style=for-the-badge&logo=github&logoColor=0D0221)](https://github.com/Marcos-Dev7/financas-investimentos)
 
 </td>
 <td width="50%">
@@ -110,7 +110,7 @@ Desafio Oracle Next Education / Alura. Consome a API pública Gutendex, processa
 
 `Java 25` `Spring Boot 4` `Spring Data JPA` `PostgreSQL` `Jackson`
 
-[![Repo](https://img.shields.io/badge/ACCESS_REPO-8A2BE2?style=for-the-badge&logo=github&logoColor=0D0221)](https://github.com/Marcos-Dev7/challenge-literalura)
+[![Repo](https://img.shields.io/badge/ACESSAR_REPO-8A2BE2?style=for-the-badge&logo=github&logoColor=0D0221)](https://github.com/Marcos-Dev7/challenge-literalura)
 
 </td>
 </tr>
@@ -123,9 +123,9 @@ Desafio Oracle Next Education / Alura. Consome a API pública Gutendex, processa
 ## `<` OBJETIVOS_ATUAIS `/>`
 
 ```bash
-marcos@dev-terminal:~$ status --current-goals
+marcos@dev-terminal:~$ status --objetivos-atuais
 
-[SYSTEM LOG] Carregando objetivos ativos...
+[LOG_DO_SISTEMA] Carregando objetivos ativos...
 
   [✔] Consolidar fundamentos de Java (POO, Collections, Streams)
   [✔] Construir APIs REST com Spring Boot + PostgreSQL
@@ -134,42 +134,28 @@ marcos@dev-terminal:~$ status --current-goals
   [🎯] Conquistar uma vaga de ESTÁGIO em Desenvolvimento Backend
   [🔄] Contribuir com projetos open source em Java
 
-[SYSTEM LOG] Processo em execução... aguardando novas oportunidades.
+[LOG_DO_SISTEMA] Processo em execução... aguardando novas oportunidades.
 marcos@dev-terminal:~$ _
 ```
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px">
 
-## `<` GITHUB_ANALYTICS `/>`
+## `<` ANALYTICS_GITHUB `/>`
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Marcos-Dev7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0221&title_color=00F5FF&icon_color=8A2BE2&text_color=c9d1d9&ring_color=8A2BE2" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-Dev7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0221&title_color=00F5FF&text_color=c9d1d9&langs_count=8" />
+<img height="165" src="https://github-readme-stats-wheat-chi-16.vercel.app/api?username=Marcos-Dev7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0221&title_color=00F5FF&icon_color=8A2BE2&text_color=c9d1d9&ring_color=8A2BE2" />
+<img height="165" src="https://github-readme-stats-wheat-chi-16.vercel.app/api/top-langs/?username=Marcos-Dev7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0221&title_color=00F5FF&text_color=c9d1d9&langs_count=8" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Marcos-Dev7&theme=tokyonight&hide_border=true&background=0D0221&ring=8A2BE2&fire=00F5FF&currStreakLabel=00F5FF" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Marcos-Dev7&theme=tokyo-night&hide_border=true&bg_color=0D0221&color=00F5FF&line=8A2BE2&point=FF00FF" width="100%"/>
+<img src="https://streak-stats.demolab.com/?user=Marcos-Dev7&theme=tokyonight&hide_border=true&background=0D0221&ring=8A2BE2&fire=00F5FF&currStreakLabel=00F5FF" />
 
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px">
 
-## `<` TROPHIES `/>`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Marcos-Dev7&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px">
-
-## `<` CONTRIBUTION_MATRIX `/>`
+## `<` MATRIZ_DE_CONTRIBUICOES `/>`
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/Marcos-Dev7/Marcos-Dev7/output/github-contribution-grid-snake-dark.svg" width="100%" />
@@ -197,13 +183,13 @@ marcos@dev-terminal:~$ _
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Marcos-Dev7&label=PROFILE+VIEWS&color=8A2BE2&style=for-the-badge&labelColor=0D0221" />
+<img src="https://komarev.com/ghpvc/?username=Marcos-Dev7&label=VISITAS+AO+PERFIL&color=8A2BE2&style=for-the-badge&labelColor=0D0221" />
 
 </div>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243E,50:302B63,100:0F0C29&height=150&section=footer&text=%3E%20END_OF_TRANSMISSION_&fontSize=20&fontColor=00F5FF&fontAlignY=75&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243E,50:302B63,100:0F0C29&height=150&section=footer&text=%3E%20FIM_DA_TRANSMISSAO_&fontSize=20&fontColor=00F5FF&fontAlignY=75&animation=fadeIn" width="100%"/>
 
 <sub>⚡ Desenvolvido e mantido por <b>Marcos Paulo</b> — Compilado em Java, orientado a objetos, orientado ao futuro.</sub>
 
